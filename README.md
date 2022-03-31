@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hung Nguyen</h1>
-<h3 align="center">A dum kid who trying to code.</h3>
+<h3 align="center">A dum kid who's trying to code.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hungnguyennaz&label=Profile%20views&color=0e75b6&style=flat" alt="hungnguyennaz" /> </p>
 
