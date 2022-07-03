@@ -11,11 +11,7 @@
 
 - 👯 I’m looking to collaborate on **NeonPaper, AmongCord**
 
-- 💬 Ask me about **sech**
-
 - 📫 How to reach me **hungnguyen@2hg.pw**
-
-- ⚡ Fun fact **i am dum**
 
 <p align="left">
 </p>
