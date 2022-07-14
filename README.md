@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **NeonPaper, ZCord**
 
-- 📫 How to reach me **hungnguyen@2hg.pw**
+- 📫 How to reach me **admin@2hg.pw**
 
 <p align="left">
 </p>
