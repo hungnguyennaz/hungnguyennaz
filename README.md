@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hungnguyennaz" alt="hungnguyennaz" /></a> </p>
 
-- 🔭 I’m currently working on **7b27t**
-
 - 🌱 I’m currently learning **Java, Python**
 
 - 👯 I’m looking to collaborate on **NeonPaper, AmongCord**
