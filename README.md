@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Java, Python**
 
-- 👯 I’m looking to collaborate on **NeonPaper, AmongCord**
+- 👯 I’m looking to collaborate on **NeonPaper, ZCord**
 
 - 📫 How to reach me **hungnguyen@2hg.pw**
 
